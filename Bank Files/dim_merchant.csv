@@ -1,0 +1,46 @@
+merchant_key,merchant_name,merchant_category,is_shell_merchant,risk_rating,country
+1,ShopEase,Retail,0,Low,South Africa
+2,QuickMart,Retail,0,Low,Nigeria
+3,ValueStore,Retail,0,Low,Nigeria
+4,FreshPick,Retail,0,Low,Nigeria
+5,MegaBuy,Retail,0,Low,Kenya
+6,TasteHub,Food & Dining,0,Low,South Africa
+7,QuickBite,Food & Dining,0,Low,Canada
+8,FoodCourt,Food & Dining,0,Low,Nigeria
+9,SpiceGarden,Food & Dining,0,Low,United Kingdom
+10,UrbanEats,Food & Dining,0,Low,Nigeria
+11,AirTravel Co,Travel,0,Low,Nigeria
+12,HotelBooker,Travel,0,Low,United Kingdom
+13,TripEase,Travel,0,Low,Nigeria
+14,FlyNow,Travel,0,Low,Nigeria
+15,StayComfort,Travel,0,Low,South Africa
+16,TechZone,Electronics,0,Low,Ghana
+17,GadgetHub,Electronics,0,Low,Nigeria
+18,DigiShop,Electronics,0,Low,Ghana
+19,SmartBuy,Electronics,0,Low,United States
+20,CircuitCity,Electronics,0,Low,Nigeria
+21,MediCare,Healthcare,0,Low,United States
+22,PharmPlus,Healthcare,0,Low,South Africa
+23,HealthHub,Healthcare,0,Low,Nigeria
+24,WellnessClinic,Healthcare,0,Low,Nigeria
+25,DocOnCall,Healthcare,0,Low,France
+26,StreamFlix,Entertainment,0,Low,Nigeria
+27,GameZone,Entertainment,0,Low,Nigeria
+28,CineTickets,Entertainment,0,Low,Nigeria
+29,MusicHub,Entertainment,0,Low,United States
+30,EventPass,Entertainment,0,Low,Ghana
+31,GlobalTrade Ltd,Shell Merchant,1,High,North Korea
+32,Apex Transfers,Shell Merchant,1,High,Cuba
+33,NovaPay Solutions,Shell Merchant,1,High,Sudan
+34,PrimeFin Corp,Shell Merchant,1,High,Iran
+35,SwiftFunds Inc,Shell Merchant,1,High,Syria
+36,TrustEx Global,Shell Merchant,1,High,Iran
+37,ClearPath Remit,Shell Merchant,1,High,Sudan
+38,FastBridge Finance,Shell Merchant,1,High,Venezuela
+39,NorthAxis ATM,ATM,0,Medium,United States
+40,Partner ATM,ATM,0,Medium,Ghana
+41,External ATM,ATM,0,Medium,Canada
+42,Domestic Wire,Wire Transfer,0,Medium,Ghana
+43,International Wire,Wire Transfer,0,Medium,South Africa
+44,POS Terminal,POS,0,Low,Nigeria
+45,Mobile POS,POS,0,Low,Nigeria

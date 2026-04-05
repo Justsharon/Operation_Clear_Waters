@@ -1,0 +1,65 @@
+location_key,country,city,region,is_high_risk_country
+1,Nigeria,Lagos,Nigeria,0
+2,Nigeria,Abuja,Nigeria,0
+3,Nigeria,Kano,Nigeria,0
+4,Nigeria,Port Harcourt,Nigeria,0
+5,Nigeria,Ibadan,Nigeria,0
+6,Nigeria,Kaduna,Nigeria,0
+7,Nigeria,Enugu,Nigeria,0
+8,Nigeria,Benin City,Nigeria,0
+9,United Kingdom,London,United Kingdom,0
+10,United Kingdom,Manchester,United Kingdom,0
+11,United Kingdom,Birmingham,United Kingdom,0
+12,United Kingdom,Leeds,United Kingdom,0
+13,United Kingdom,Glasgow,United Kingdom,0
+14,United Kingdom,Liverpool,United Kingdom,0
+15,Ghana,Accra,Ghana,0
+16,Ghana,Kumasi,Ghana,0
+17,Ghana,Tamale,Ghana,0
+18,Ghana,Sekondi-Takoradi,Ghana,0
+19,Ghana,Cape Coast,Ghana,0
+20,South Africa,Johannesburg,South Africa,0
+21,South Africa,Cape Town,South Africa,0
+22,South Africa,Durban,South Africa,0
+23,South Africa,Pretoria,South Africa,0
+24,South Africa,Port Elizabeth,South Africa,0
+25,Kenya,Nairobi,Kenya,0
+26,Kenya,Mombasa,Kenya,0
+27,Kenya,Kisumu,Kenya,0
+28,Kenya,Nakuru,Kenya,0
+29,Kenya,Eldoret,Kenya,0
+30,United States,New York,United States,0
+31,United States,Los Angeles,United States,0
+32,United States,Chicago,United States,0
+33,United States,Houston,United States,0
+34,United States,Phoenix,United States,0
+35,Canada,Toronto,Canada,0
+36,Canada,Vancouver,Canada,0
+37,Canada,Montreal,Canada,0
+38,Canada,Calgary,Canada,0
+39,Canada,Ottawa,Canada,0
+40,Germany,Berlin,Germany,0
+41,Germany,Munich,Germany,0
+42,Germany,Hamburg,Germany,0
+43,Germany,Frankfurt,Germany,0
+44,Germany,Cologne,Germany,0
+45,France,Paris,France,0
+46,France,Lyon,France,0
+47,France,Marseille,France,0
+48,France,Toulouse,France,0
+49,France,Nice,France,0
+50,UAE,Dubai,UAE,0
+51,UAE,Abu Dhabi,UAE,0
+52,UAE,Sharjah,UAE,0
+53,UAE,Ajman,UAE,0
+54,UAE,Ras Al Khaimah,UAE,0
+55,North Korea,North Korea City,Fraud Zone,1
+56,Iran,Iran City,Fraud Zone,1
+57,Myanmar,Myanmar City,Fraud Zone,1
+58,Belarus,Belarus City,Fraud Zone,1
+59,Venezuela,Venezuela City,Fraud Zone,1
+60,Russia,Russia City,Fraud Zone,1
+61,Syria,Syria City,Fraud Zone,1
+62,Cuba,Cuba City,Fraud Zone,1
+63,Sudan,Sudan City,Fraud Zone,1
+64,Somalia,Somalia City,Fraud Zone,1
