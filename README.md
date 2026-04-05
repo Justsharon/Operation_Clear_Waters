@@ -11,6 +11,9 @@ NorthAxis Bank experienced a 340% spike in fraud-related complaints during Q3 20
 The investigation identified **26 high-risk accounts** responsible for **728 suspicious transactions** totalling an estimated **$24.35 million** in at-risk exposure across the January to September 2024 period. Four fraud signals were confirmed through data analysis: velocity anomalies, off-hours activity, geographic mismatch, and statistical amount outliers. Mobile Banking and Web Banking were identified as the primary channels of suspicious activity, with the highest concentration occurring between 2AM and 3AM.
 
 ---
+## Dashboard Preview
+
+![Executive Summary](dashboard_images/operation_clearwater_page-0001.jpg)
 
 ## 2. Background & Business Problem
 
